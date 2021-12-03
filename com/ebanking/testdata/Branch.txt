@@ -1,0 +1,4 @@
+BranchName###Address1###ZipCode###Country###State###City
+FaluknumaJnct###FaluknumaRailwaysJn###58963###INDIA###Andhra Pradesh###Hyderabad
+AmeerpetMetroJnct###AmeerpetMainJntn###78963###INDIA###Andhra Pradesh###Hyderabad
+MalakpetGunj###MalakpetGunjRoad###45632###INDIA###Andhra Pradesh###Hyderabad

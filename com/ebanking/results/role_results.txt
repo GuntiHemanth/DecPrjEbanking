@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ClerkKthpt###E$$$Role Already existed
+AsstMngrKthpt###E$$$Role Already existed
+CashierKthpt###E$$$Role Already existed

@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ClerkKthpt###E
+AsstMngrKthpt###E
+CashierKthpt###E

@@ -1,0 +1,4 @@
+EmpName###Password###Role###Branch
+ManideepY###manideep###ClerkKthpt###FaluknumaJnct$$$New Employer Created6121 Successfully
+PraveenRajF###praveen###AsstMngrKthpt###AmeerpetMetroJnct$$$New Employer Created6130 Successfully
+RaviKiranG###raviKran###CashierKthpt###MalakpetGunj$$$New Employer Created6131 Successfully

@@ -1,0 +1,4 @@
+BranchName###Address1###ZipCode###Country###State###City
+FaluknumaJnct###FaluknumaRailwaysJn###58963###INDIA###Andhra Pradesh###Hyderabad$$$New Branch with id 1557 created Sucessfully
+AmeerpetMetroJnct###AmeerpetMainJntn###78963###INDIA###Andhra Pradesh###Hyderabad$$$New Branch with id 1558 created Sucessfully
+MalakpetGunj###MalakpetGunjRoad###45632###INDIA###Andhra Pradesh###Hyderabad$$$Branch name already Exist

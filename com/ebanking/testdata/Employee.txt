@@ -1,0 +1,4 @@
+EmpName###Password###Role###Branch
+ManideepY###manideep###ClerkKthpt###FaluknumaJnct
+PraveenRajF###praveen###AsstMngrKthpt###AmeerpetMetroJnct
+RaviKiranG###raviKran###CashierKthpt###MalakpetGunj
